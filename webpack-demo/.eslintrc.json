@@ -38,6 +38,10 @@
             "prefix": "app",
             "style": "camelCase"
           }
+        ],
+        "indent":[
+          "error",
+          2
         ]
       }
     },
