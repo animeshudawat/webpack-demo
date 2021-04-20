@@ -1,4 +1,5 @@
 src/assets
+*.config.js
 dist
 node_modules
 *.ico
